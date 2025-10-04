@@ -124,3 +124,4 @@ Frontend будет доступен по адресу: http://localhost:3000
 3. Обновите `DATABASE_URL` в `backend/config.py`
 4. Установите `psycopg2-binary` вместо `psycopg2-binary` в `requirements.txt`
 # reklama-oleg
+# oleg
